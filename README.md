@@ -1,10 +1,8 @@
-# firebase_todo
-
-A new Flutter project.
+# Firebase ToDo
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+App feito em Flutter 
 
 A few resources to get you started if this is your first Flutter project:
 
